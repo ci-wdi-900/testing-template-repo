@@ -1,5 +1,9 @@
 const {
-  exampleFunction,
+  getFirstItemFrom,
+  getLastItemFrom,
+  getIndex3,
+  firstItemIsNumber,
+  isLongList,
 } = require('./main.js')
 
 describe('exampleFunction', () => {
